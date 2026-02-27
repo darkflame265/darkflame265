@@ -73,18 +73,6 @@ Unity · Unreal · Python · Web 을 다루는 개발자 지망생입니다.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darkflame265&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7C3AED&icon_color=06B6D4&text_color=EEEAFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darkflame265&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7C3AED&text_color=EEEAFF)
-
-</div>
-
----
-
 <div align="center">
 
 **🌐 [포트폴리오 바로가기](https://darkflame265.github.io/07_portfolio_site/)**
