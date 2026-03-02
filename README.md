@@ -8,7 +8,6 @@ Unity · Unreal · Python · Web 을 다루는 개발자 지망생입니다.
 게임을 만들고, AI로 게임을 플레이하고, 웹으로 기록합니다.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-darkflame265.github.io-7C3AED?style=for-the-badge)](https://darkflame265.github.io/07_portfolio_site/)
-[![Email](https://img.shields.io/badge/📧_Email-ter2490@naver.com-06B6D4?style=for-the-badge)](mailto:ter2490@naver.com)
 
 </div>
 
@@ -34,6 +33,11 @@ Unity · Unreal · Python · Web 을 다루는 개발자 지망생입니다.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**AI Tools**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
