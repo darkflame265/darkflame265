@@ -60,7 +60,7 @@ Unity · Unreal · Python · Web 을 다루는 개발자 지망생입니다.
 
 | 프로젝트 | 설명 | 스택 |
 |----------|------|------|
-| [**06_TBSwebGame (Path Clash)**](https://github.com/darkflame265/06_TBSwebGame) | 두 플레이어가 1:1로 경로를 작성하며 상대를 맞추거나 피하는 턴제 전략 게임 · [🔗 Live](https://06-tb-sweb-game.vercel.app/) | `TypeScript` |
+| [**08_PathClash**](https://github.com/darkflame265/08_PathClash) | 5×5 그리드에서 경로를 그려 추격자와 도망자 역할을 번갈아가며 승부하는 실시간 1:1 전략 게임 · [🔗 Live](https://pathclash.com) | `React` `TypeScript` `Socket.io` `Node.js` `Supabase` |
 | [**07_portfolio_site**](https://github.com/darkflame265/07_portfolio_site) | 개인 포트폴리오 사이트. 빌드 없이 GitHub Pages로 배포 · [🔗 Live](https://darkflame265.github.io/07_portfolio_site/) | `HTML` `CSS` `JS` |
 
 ---
