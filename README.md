@@ -64,6 +64,7 @@ Unity · Unreal · Python · Web 을 다루는 개발자 지망생입니다.
 
 | 프로젝트 | 설명 | 스택 |
 |----------|------|------|
+| [**Quoridor AI Studio**](https://github.com/darkflame265/12_quoridor_ai) | AI 대전·기보 복기·추천 이유 설명을 제공하는 쿼리도 웹 앱. 외부 SigmaQuoridor 모델·기반 코드에 UI·화면 인식·브라우저 AI 실행을 구현·통합 · [🔗 Live](https://darkflame265.github.io/12_quoridor_ai/) | `JavaScript` `HTML` `CSS` `ONNX Runtime Web` `WASM` |
 | [**08_PathClash**](https://github.com/darkflame265/08_PathClash) | 5×5 그리드에서 경로를 그려 추격자와 도망자 역할을 번갈아가며 승부하는 실시간 1:1 전략 게임 · [🔗 Live](https://pathclash.com) | `React` `TypeScript` `Socket.io` `Node.js` `Supabase` |
 | [**07_portfolio_site**](https://github.com/darkflame265/07_portfolio_site) | 개인 포트폴리오 사이트. 빌드 없이 GitHub Pages로 배포 · [🔗 Live](https://darkflame265.github.io/07_portfolio_site/) | `HTML` `CSS` `JS` |
 
